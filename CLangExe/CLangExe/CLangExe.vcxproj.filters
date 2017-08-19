@@ -29,5 +29,8 @@
     <ClInclude Include="exercise01.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="exercise02.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
