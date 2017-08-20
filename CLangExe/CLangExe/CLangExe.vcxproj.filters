@@ -24,12 +24,42 @@
     <ClCompile Include="main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="exercise03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise06.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise01.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="exercise02.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise03.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise04.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise05.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise06.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise08.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

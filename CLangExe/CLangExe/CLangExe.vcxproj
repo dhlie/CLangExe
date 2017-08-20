@@ -13,11 +13,21 @@
   <ItemGroup>
     <ClCompile Include="exercise01.c" />
     <ClCompile Include="exercise02.c" />
+    <ClCompile Include="exercise03.c" />
+    <ClCompile Include="exercise04.c" />
+    <ClCompile Include="exercise05.c" />
+    <ClCompile Include="exercise06.c" />
+    <ClCompile Include="exercise08.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise01.h" />
     <ClInclude Include="exercise02.h" />
+    <ClInclude Include="exercise03.h" />
+    <ClInclude Include="exercise04.h" />
+    <ClInclude Include="exercise05.h" />
+    <ClInclude Include="exercise06.h" />
+    <ClInclude Include="exercise08.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{DABC70D2-0FF0-4178-A0B4-07B63B66EB86}</ProjectGuid>

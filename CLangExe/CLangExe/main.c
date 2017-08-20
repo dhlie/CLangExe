@@ -3,9 +3,20 @@
 #include <stdio.h>
 #include "exercise01.h"
 #include "exercise02.h"
+#include "exercise03.h"
+#include "exercise04.h"
+#include "exercise05.h"
+#include "exercise06.h"
+#include "exercise08.h"
 
 void main() {
 	printf("hello world\n");
-	exercise02();
+	//exercise01();
+	//exercise02();
+	//exercise03();
+	//exercise04();
+	//exercise05();
+	//exercise06();
+	exercise08();
 	system("pause");
 }
