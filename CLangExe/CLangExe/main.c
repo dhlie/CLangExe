@@ -19,4 +19,5 @@ void main() {
 	//exercise06();
 	exercise08();
 	system("pause");
+	return 0;
 }
