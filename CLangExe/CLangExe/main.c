@@ -8,6 +8,8 @@
 #include "exercise05.h"
 #include "exercise06.h"
 #include "exercise08.h"
+#include "exercise09.h"
+#include "eightQueen.h"
 
 void main() {
 	printf("hello world\n");
@@ -17,7 +19,9 @@ void main() {
 	//exercise04();
 	//exercise05();
 	//exercise06();
-	exercise08();
+	//exercise08();
+	//exercise09();
+	eightQueen(0);
 	system("pause");
 	return 0;
 }

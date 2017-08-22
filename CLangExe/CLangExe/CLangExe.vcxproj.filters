@@ -39,6 +39,12 @@
     <ClCompile Include="exercise08.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="exercise09.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eightQueen.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise01.h">
@@ -60,6 +66,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="exercise08.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise09.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="eightQueen.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
