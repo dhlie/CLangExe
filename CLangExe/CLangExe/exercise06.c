@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-ÌâÄ¿£ºÓÃ*ºÅÊä³ö×ÖÄ¸CµÄÍ¼°¸
+é¢˜ç›®ï¼šç”¨*å·è¾“å‡ºå­—æ¯Cçš„å›¾æ¡ˆ
 */
 void exercise06(void) {
 	//     *

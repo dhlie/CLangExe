@@ -2,11 +2,11 @@
 #include <limits.h>
 #include <math.h>
 /*
-ÌâÄ¿£ºÒ»¸öÕûÊý£¬Ëü¼ÓÉÏ100ºóÊÇÒ»¸öÍêÈ«Æ½·½Êý£¬ÔÙ¼ÓÉÏ168ÓÖÊÇÒ»¸öÍêÈ«Æ½·½Êý£¬ÇëÎÊ¸ÃÊýÊÇ¶àÉÙ£¿
+é¢˜ç›®ï¼šä¸€ä¸ªæ•´æ•°ï¼Œå®ƒåŠ ä¸Š100åŽæ˜¯ä¸€ä¸ªå®Œå…¨å¹³æ–¹æ•°ï¼Œå†åŠ ä¸Š168åˆæ˜¯ä¸€ä¸ªå®Œå…¨å¹³æ–¹æ•°ï¼Œè¯·é—®è¯¥æ•°æ˜¯å¤šå°‘ï¼Ÿ
 */
 void exercise03(void) {
 	long i, x, y;
-	//x*x = i + 100£»
+	//x*x = i + 100ï¼›
 	//y*y = i + 268;
 	for (size_t i = 0; i < INT_MAX; i++)
 	{

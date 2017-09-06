@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include "conio.h"
 /*
-ÌâÄ¿£ºÒªÇóÊä³ö¹ú¼ÊÏóÆåÆåÅÌ¡£
+é¢˜ç›®ï¼šè¦æ±‚è¾“å‡ºå›½é™…è±¡æ£‹æ£‹ç›˜ã€‚
 */
 void exercise09(void) {
 	int i, j;

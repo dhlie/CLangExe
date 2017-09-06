@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-ÌâÄ¿£ºÊä³ö9*9¿Ú¾÷
+é¢˜ç›®ï¼šè¾“å‡º9*9å£è¯€
 */
 void exercise08(void) {
 	for (size_t i = 1; i <= 9; i++)
@@ -8,7 +8,7 @@ void exercise08(void) {
 		for (size_t j = 1; j <= 9; j++){
 			if (j <= i)
 			{
-				printf("%d * %d = %-2d\t", j, i, i*j);// /*-2d±íÊ¾×ó¶ÔÆë£¬Õ¼2Î»*/
+				printf("%d * %d = %-2d\t", j, i, i*j);// /*-2dè¡¨ç¤ºå·¦å¯¹é½ï¼Œå 2ä½*/
 			}
 			else
 			{

@@ -4,9 +4,9 @@
 #define MAX_LENGTH 8
 static int position[MAX_LENGTH];
 
-int checkPoint(int row, int col);
+static int checkPoint(int row, int col);
 /*
-��8��8��Ĺ��������ϰڷŰ˸��ʺ�ʹ�䲻�ܻ��๥���������������ʺ󶼲��ܴ���ͬһ�С�ͬһ�л�ͬһб���ϣ����ж����ְڷ���
+在8×8格的国际象棋上摆放八个皇后，使其不能互相攻击，即任意两个皇后都不能处于同一行、同一列或同一斜线上，问有多少种摆法。
 */
 void eightQueen(int row) {
 	for (size_t i = 0; i < MAX_LENGTH; i++)
